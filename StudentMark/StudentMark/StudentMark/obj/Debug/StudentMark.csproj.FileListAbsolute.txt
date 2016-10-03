@@ -1,0 +1,18 @@
+x:\my documents\visual studio 2013\Projects\StudentMark\StudentMark\bin\Debug\StudentMark.exe.config
+x:\my documents\visual studio 2013\Projects\StudentMark\StudentMark\obj\Debug\StudentMark.csprojResolveAssemblyReference.cache
+x:\my documents\visual studio 2013\Projects\StudentMark\StudentMark\obj\Debug\StudentMark.Form1.resources
+x:\my documents\visual studio 2013\Projects\StudentMark\StudentMark\obj\Debug\StudentMark.Properties.Resources.resources
+x:\my documents\visual studio 2013\Projects\StudentMark\StudentMark\obj\Debug\StudentMark.csproj.GenerateResource.Cache
+X:\My Documents\Visual Studio 2013\Projects\StudentMark\StudentMark\bin\Debug\StudentMark.exe
+X:\My Documents\Visual Studio 2013\Projects\StudentMark\StudentMark\bin\Debug\StudentMark.pdb
+X:\My Documents\Visual Studio 2013\Projects\StudentMark\StudentMark\obj\Debug\StudentMark.exe
+X:\My Documents\Visual Studio 2013\Projects\StudentMark\StudentMark\obj\Debug\StudentMark.pdb
+C:\Users\Bishes\Downloads\StudentMark\StudentMark\StudentMark\bin\Debug\StudentMark.exe.config
+C:\Users\Bishes\Downloads\StudentMark\StudentMark\StudentMark\obj\Debug\StudentMark.exe
+C:\Users\Bishes\Downloads\StudentMark\StudentMark\StudentMark\obj\Debug\StudentMark.pdb
+C:\Users\Bishes\Downloads\StudentMark\StudentMark\StudentMark\bin\Debug\StudentMark.exe
+C:\Users\Bishes\Downloads\StudentMark\StudentMark\StudentMark\bin\Debug\StudentMark.pdb
+C:\Users\Bishes\Downloads\StudentMark\StudentMark\StudentMark\obj\Debug\StudentMark.csprojResolveAssemblyReference.cache
+C:\Users\Bishes\Downloads\StudentMark\StudentMark\StudentMark\obj\Debug\StudentMark.Form1.resources
+C:\Users\Bishes\Downloads\StudentMark\StudentMark\StudentMark\obj\Debug\StudentMark.Properties.Resources.resources
+C:\Users\Bishes\Downloads\StudentMark\StudentMark\StudentMark\obj\Debug\StudentMark.csproj.GenerateResource.Cache
